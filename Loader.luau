@@ -1,4 +1,4 @@
-if (getgenv()["loaded"] then
+if (getgenv()["loaded"]) then
     return;
   end;
   getgenv()["loaded"] = true;
