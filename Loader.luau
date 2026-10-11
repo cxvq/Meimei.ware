@@ -9,5 +9,5 @@ if (identifyexecutor():lower() ~= "volt") then
 end;
 
 if (game.GameId == 10769535206) then
-    loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/f9e8705a74d97bd4e43683308075b424.lua"))();
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/d53a06fbae0a929d8fff0fd425618618.lua"))();
 end;
